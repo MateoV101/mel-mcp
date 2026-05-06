@@ -1,0 +1,9 @@
+{
+  "name": "mel-mcp",
+  "plugins": [
+    {
+      "id": "diagnostic-tool",
+      "path": "./plugins/diagnostic-tool"
+    }
+  ]
+}
